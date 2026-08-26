@@ -2,6 +2,17 @@
 
 A deep learning project for detecting and classifying surgical instruments in medical video frames using computer vision and neural networks.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="36" />
+</p>
+
+---
+
 ## Video Demo
 
 [Watch the demo video](https://github.com/user-attachments/assets/1fa79738-1b55-4f4b-8b87-00cb5ae7fa92)
@@ -101,11 +112,11 @@ The model successfully detects and classifies surgical instruments with high acc
 
 ## Applications
 
-- **Operating Room Monitoring** - Real-time tracking of surgical instrument usage
-- **Surgical Training** - Educational tool for surgical residents
-- **Documentation** - Automated logging of procedures and instrument usage
-- **Safety Systems** - Detection of missing or misplaced instruments
-- **Research** - Analysis of surgical technique and efficiency
+- Operating Room Monitoring - Real-time tracking of surgical instrument usage
+- Surgical Training - Educational tool for surgical residents
+- Documentation - Automated logging of procedures and instrument usage
+- Safety Systems - Detection of missing or misplaced instruments
+- Research - Analysis of surgical technique and efficiency
 
 ## Future Improvements
 
